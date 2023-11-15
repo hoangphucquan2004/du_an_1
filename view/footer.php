@@ -7,7 +7,7 @@
 							<div class="footer__two-widget-about-logo">
 								<a href="index.html"><img src="assets/img/logo-1.png" alt=""></a>
 							</div>
-							<p>Nunc at lacus at nibh scelerisque scelerisque id vel metus. Vivamus mollis diam maximus, consequat nulla sit amet, ultricies quam. Proin</p>
+							<p>Bây giờ ở hồ với mức giá sô cô la thì đó là một nỗi sợ hãi. Chúng ta sống một cuộc đời lâu dài và không có hậu quả gì, dù có nhiều đến đâu. Proin</p>
 							<div class="footer__two-widget-about-social">
 								<ul>
 									<li><a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -25,14 +25,14 @@
 				</div>
 				<div class="col-xl-2 col-lg-2 col-md-3 col-sm-4 lg-mb-30">
 					<div class="footer__two-widget">
-						<h5>Pages Links</h5>
+						<h5>Liên kết trang</h5>
 						<div class="footer__two-widget-menu">
 							<ul>
-								<li><a href="services-details.html"><i class="fal fa-angle-double-right"></i>Room Cleaning</a></li>
-								<li><a href="services-details.html"><i class="fal fa-angle-double-right"></i>Car Parking</a></li>
-								<li><a href="services-details.html"><i class="fal fa-angle-double-right"></i>Swimming pool</a></li>
-								<li><a href="services-details.html"><i class="fal fa-angle-double-right"></i>Fitness Gym</a></li>
-								<li><a href="services-details.html"><i class="fal fa-angle-double-right"></i>Spa Center</a></li>
+								<li><a href="services-details.html"><i class="fal fa-angle-double-right"></i>Làm sạch phòng</a></li>
+								<li><a href="services-details.html"><i class="fal fa-angle-double-right"></i>Bãi đậu xe</a></li>
+								<li><a href="services-details.html"><i class="fal fa-angle-double-right"></i>Hồ bơi</a></li>
+								<li><a href="services-details.html"><i class="fal fa-angle-double-right"></i>Phòng tập thể hình</a></li>
+								<li><a href="services-details.html"><i class="fal fa-angle-double-right"></i>Trung tâm spa</a></li>
 							</ul>
 						</div>
 					</div>
@@ -42,24 +42,24 @@
 						<h5>Recent Post</h5>
 						<div class="footer__two-widget-post">
 							<div class="footer__two-widget-post-item">
-								<span><i class="fal fa-calendar-check"></i>20 June, 2022</span>
-								<h6><a href="blog-details.html">The best architecture is competition</a></h6>
+								<span><i class="fal fa-calendar-check"></i>20 tháng 6 năm 2023</span>
+								<h6><a href="blog-details.html">Kiến trúc tốt nhất là sự cạnh tranh</a></h6>
 							</div>
 							<div class="footer__two-widget-post-item">
-								<span><i class="fal fa-calendar-check"></i>29 June, 2022</span>
-								<h6><a href="blog-details.html">The best architecture is competition</a></h6>
+								<span><i class="fal fa-calendar-check"></i>29 tháng 6 năm 2022</span>
+								<h6><a href="blog-details.html">Kiến trúc tốt nhất là sự cạnh tranh</a></h6>
 							</div>
 						</div>
 					</div>
 				</div>
 				<div class="col-xl-3 col-lg-3 col-md-7 col-sm-6">
 					<div class="footer__two-widget">
-						<h5>Opening Hours</h5>
+						<h5>Giờ mở cửa</h5>
 						<div class="footer__two-widget-hours">
-							<p>Sun<span>7 : 00 AM - 2 : 00 PM</span></p>
-							<p>Mon<span>9 : 00 AM - 4 : 00 PM</span></p>
-							<p>Tue<span>6 : 00 AM - 1 : 00 PM</span></p>
-							<p>Wed<span>8 : 00 AM - 3 : 00 PM</span></p>
+							<p>Chủ Nhật<span>7 : 00 AM - 2 : 00 PM</span></p>
+							<p>Thứ 2<span>9 : 00 AM - 4 : 00 PM</span></p>
+							<p>Thứ 3<span>6 : 00 AM - 1 : 00 PM</span></p>
+							<p>Thứ 4<span>8 : 00 AM - 3 : 00 PM</span></p>
 						</div>
 					</div>
 				</div>
@@ -70,7 +70,7 @@
 				<div class="row">
 					<div class="col-xl-12">
 						<div class="copyright__two-title">
-							<p>Copyright © 2022 <a href="https://themeforest.net/user/themeori/portfolio">ThemeOri</a> Website by <a href="index.html">Hostily</a></p>
+							<p>Copyright © 2023 <a href="https://themeforest.net/user/themeori/portfolio">ThemeOri</a> Trang web của <a href="index.html">NCQ</a></p>
 						</div>
 					</div>
 				</div>

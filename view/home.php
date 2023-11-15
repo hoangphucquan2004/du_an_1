@@ -4,7 +4,7 @@
                 <div class="col-xxl-2 col-xl-2 col-lg-2 col-md-5 col-sm-4 sm-mb-30">
                     <div class="company__area-left sm-t-center">
                         <h1><span class="counter">180</span>+</h1>
-                        <h5>Get International</h5>
+                        <h5>Nhận quốc tế</h5>
                     </div>
                 </div>
                 <div class="col-xxl-5 col-xl-4 col-lg-4 col-md-7 col-sm-8 lg-mb-30">
@@ -14,10 +14,10 @@
                 </div>
                 <div class="col-xxl-5 col-xl-6 col-lg-6">
                     <div class="company__area-title">
-						<span class="subtitle__one">Company</span>
-						<h2>Optimize your business For online bookings.</h2>
+						<span class="subtitle__one">Công ty</span>
+						<h2>Tối ưu hóa hoạt động kinh doanh của bạn Để đặt chỗ trực tuyến.</h2>
                         <p>Morbi et tellus imperdiet, aliquam nulla sed, dapibus erat. Aenean dapibus sem non purus venenatis vulputate. Donec accumsan eleifend blandit. Nullam auctor ligula vel ante volutpat,</p>
-						<a class="theme-border-btn" href="about.html">Read More<i class="fal fa-long-arrow-right"></i></a>
+						<a class="theme-border-btn" href="about.html">Đọc thêm<i class="fal fa-long-arrow-right"></i></a>
 					</div>
                 </div>
             </div>
@@ -30,7 +30,7 @@
 			<div class="row align-items-center call__area-bg three">
 				<div class="col-xl-8">
 					<div class="call__area-bg-left">
-						<h2>Need any Contact with Us</h2>
+						<h2>Cần bất kỳ liên hệ với chúng tôi</h2>
 					</div>
 				</div>
 				<div class="col-xl-4">
@@ -39,7 +39,7 @@
 							<i class="fal fa-phone-alt"></i>
 						</div>
 						<div class="call__area-bg-right-content">
-							<span><a href="tel:+123(458)585568">+123 (458) 585 568</a></span>
+							<span><a href="tel:+123(458)585568">+84 343 887 558</a></span>
 						</div>
 					</div>
 				</div>
@@ -53,13 +53,13 @@
             <div class="row align-items-center mb-60">
                 <div class="col-xl-6 col-lg-6 col-md-8">
                     <div class="deluxe__three-title">
-						<span class="subtitle__one">Deluxe and Luxury</span>
-						<h2>Luxury Rooms</h2>
+						<span class="subtitle__one">Cao cấp và sang trọng</span>
+						<h2>Phòng sang trọng</h2>
                     </div>
                 </div>
                 <div class="col-xl-6 col-lg-6 col-md-4">
                     <div class="deluxe__three-right">
-                        <a class="theme-btn" href="about.html">Read More<i class="fal fa-long-arrow-right"></i></a>
+                        <a class="theme-btn" href="about.html">Đọc thêm<i class="fal fa-long-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -69,16 +69,16 @@
                         <div class="deluxe__three-item-image">
                             <img src="assets/img/hotel/hotel-10.jpg" alt="">
                             <div class="deluxe__three-item-image-content">
-                                <h4><a href="room-details.html">Luxury Room</a><span>$189/Night</span></h4>
+                                <h4><a href="room-details.html">Phòng sang trọng</a><span>$189/Đêm</span></h4>
                                 <p>Praesent non ullamcorper ligula. Proin a mi vitae massa lacinia</p>
                                 <div class="deluxe__three-item-image-content-meta">
                                     <ul>
-                                        <li><i class="fal fa-bed-alt"></i>(3) bed's</li>
-                                        <li><i class="fal fa-users"></i>(4) Guest's</li>
+                                        <li><i class="fal fa-bed-alt"></i>(3) giường</li>
+                                        <li><i class="fal fa-users"></i>(4) Của khách</li>
                                     </ul>
                                 </div>
                                 <div class="deluxe__three-item-image-content-bottom">
-                                    <a class="simple-btn" href="#"><i class="far fa-chevron-right"></i>Read More</a>
+                                    <a class="simple-btn" href="#"><i class="far fa-chevron-right"></i>Đọc thêm</a>
                                     <p><i class="fas fa-star"></i><span>4.9</span>2k</p>
                                 </div>
                             </div>
@@ -90,16 +90,16 @@
                         <div class="deluxe__three-item-image">
                             <img src="assets/img/hotel/hotel-11.jpg" alt="">
                             <div class="deluxe__three-item-image-content">                                
-                                <h4><a href="room-details.html">Small Suite</a><span>$224/Night</span></h4>
+                                <h4><a href="room-details.html">Suite nhỏ</a><span>$224/Đêm</span></h4>
                                 <p>Praesent non ullamcorper ligula. Proin a mi vitae massa lacinia</p>
                                 <div class="deluxe__three-item-image-content-meta">
                                     <ul>
-                                        <li><i class="fal fa-bed-alt"></i>(3) bed's</li>
-                                        <li><i class="fal fa-users"></i>(4) Guest's</li>
+                                        <li><i class="fal fa-bed-alt"></i>(3) Giường</li>
+                                        <li><i class="fal fa-users"></i>(4) Của Khách</li>
                                     </ul>
                                 </div>
                                 <div class="deluxe__three-item-image-content-bottom">
-                                    <a class="simple-btn" href="#"><i class="far fa-chevron-right"></i>Read More</a>
+                                    <a class="simple-btn" href="#"><i class="far fa-chevron-right"></i>Đọc thêm</a>
                                     <p><i class="fas fa-star"></i><span>4.9</span>2k</p>
                                 </div>
                             </div>
@@ -111,16 +111,16 @@
                         <div class="deluxe__three-item-image">
                             <img src="assets/img/hotel/hotel-12.jpg" alt="">
                             <div class="deluxe__three-item-image-content">                                
-                                <h4><a href="room-details.html">Double Room</a><span>$203/Night</span></h4>
+                                <h4><a href="room-details.html">Phòng đôi</a><span>$203/Đêm</span></h4>
                                 <p>Praesent non ullamcorper ligula. Proin a mi vitae massa lacinia</p>
                                 <div class="deluxe__three-item-image-content-meta">
                                     <ul>
-                                        <li><i class="fal fa-bed-alt"></i>(3) bed's</li>
-                                        <li><i class="fal fa-users"></i>(4) Guest's</li>
+                                        <li><i class="fal fa-bed-alt"></i>(3) Giường</li>
+                                        <li><i class="fal fa-users"></i>(4) Của Khách</li>
                                     </ul>
                                 </div>
                                 <div class="deluxe__three-item-image-content-bottom">
-                                    <a class="simple-btn" href="#"><i class="far fa-chevron-right"></i>Read More</a>
+                                    <a class="simple-btn" href="#"><i class="far fa-chevron-right"></i>Đọc thêm</a>
                                     <p><i class="fas fa-star"></i><span>4.9</span>2k</p>
                                 </div>
                             </div>
@@ -137,7 +137,7 @@
             <div class="row mb-60">
                 <div class="col-xl-12">
                     <div class="booking__two-title">
-						<span class="subtitle__one">Booking Aria</span>
+						<span class="subtitle__one">Đặt chỗ Aria</span>
 						<h2>Find the best hotels in Your area</h2>                        
                     </div>
                 </div>
@@ -147,25 +147,25 @@
                     <form action="#">
                         <div class="check__area two">
                             <div class="check__area-item">						
-                                <p>Check In<input id="date" type="date"></p>								
+                                <p>Đăng ký vào<input id="date" type="date"></p>								
                             </div>
                             <div class="check__area-item">						
-                                <p>Check Out<input id="date2" type="date"></p>								
+                                <p>Đăng ký ra<input id="date2" type="date"></p>								
                             </div>
                             <div class="check__area-item">						
                                 <div class="check__area-item-room">
                                     <p>Room</p>
                                     <select name="select">
-                                        <option value="1">1 Room</option>
-                                        <option value="2">2 Room</option>
-                                        <option value="3">3 Room</option>
-                                        <option value="4">4 Room</option>
-                                        <option value="5">5 Room</option>
+                                        <option value="1">1 Phòng</option>
+                                        <option value="2">2 Phòng</option>
+                                        <option value="3">3 Phòng</option>
+                                        <option value="4">4 Phòng</option>
+                                        <option value="5">5 Phòng</option>
                                     </select>
                                 </div>								
                             </div>
                             <div class="check__area-item button">
-                                <button class="theme-btn" type="submit">Check Now</button>							
+                                <button class="theme-btn" type="submit">Kiểm tra ngay</button>							
                             </div>
                         </div>
                     </form>                    
@@ -174,15 +174,15 @@
             <div class="row mt-100">
 				<div class="col-xl-4 col-lg-6">
 					<div class="room__area-title">
-						<span class="subtitle__one">Our Features</span>
-						<h2>Single Room</h2>
+						<span class="subtitle__one">Các tính năng của chúng tôi</span>
+						<h2>Phòng đơn</h2>
 						<p>Phasellus semper vehicula eros, non ultricies neque rhoncus sed. Morbi aliquam ex in dui aliquet consectetur. Fusce pellentesque turpis ut lorem elementum commodo.</p>
 						<div class="room__area-title-contact">
 							<div class="room__area-title-contact-icon">
 								<i class="fal fa-phone-alt"></i>
 							</div>
 							<div class="room__area-title-contact-content">
-								<span><a href="tel:+123(458)585568">+123 (458) 585 568</a></span>
+								<span><a href="tel:+123(458)585568">+84 343 887 558</a></span>
 							</div>
 						</div>
 					</div>					
@@ -199,7 +199,7 @@
 								<img src="assets/img/icon/key.png" alt="">
 							</div>
 							<div class="room__area-list-item-content">
-								<h5>Smart Key</h5>
+								<h5>Chìa khóa thông minh</h5>
 								<p>Phasellus semper vehicula eros, non ultricies neque rhoncus sed</p>
 							</div>
 						</div>
@@ -208,7 +208,7 @@
 								<img src="assets/img/icon/breakfast.png" alt="">
 							</div>
 							<div class="room__area-list-item-content">
-								<h5>Breakfast</h5>
+								<h5>Bữa sáng</h5>
 								<p>Phasellus semper vehicula eros, non ultricies neque rhoncus sed</p>
 							</div>
 						</div>
@@ -217,7 +217,7 @@
 								<img src="assets/img/icon/wifi-1.png" alt="">
 							</div>
 							<div class="room__area-list-item-content">
-								<h5>Home Wifi</h5>
+								<h5>Wifi gia đình</h5>
 								<p>Phasellus semper vehicula eros, non ultricies neque rhoncus sed</p>
 							</div>
 						</div>
@@ -248,10 +248,10 @@
 				</div>
 				<div class="col-xl-5 col-lg-6">
 					<div class="place__two-title">
-						<span class="subtitle__one">Awesome Place</span>
-						<h2>We're a unique place to Spend time</h2>
+						<span class="subtitle__one">Nơi tuyệt vời</span>
+						<h2>Chúng tôi là nơi duy nhất để dành thời gian</h2>
 						<p>Phasellus malesuada convallis purus bibendum dictum. Maecenas semper nulla justo, quis pulvinar risus sagittis eget. Sed libero eros, tincidunt eu ante a, ultrices elementum arcu.</p>
-						<a class="theme-btn" href="about.html">Read More<i class="fal fa-long-arrow-right"></i></a>						
+						<a class="theme-btn" href="about.html">Đọc thêm<i class="fal fa-long-arrow-right"></i></a>						
 					</div>
 				</div>
 			</div>
@@ -264,8 +264,8 @@
 			<div class="row mb-60">
 				<div class="col-xl-12">
 					<div class="blog__two-title">
-						<span class="subtitle__one">Our Blog</span>
-						<h2>Read Our Blog amd News</h2>						
+						<span class="subtitle__one">Blog của chúng tôi</span>
+						<h2>Đọc Blog và tin tức của chúng tôi </h2>						
 					</div>					
 				</div>
 			</div>
@@ -280,9 +280,9 @@
                             </div>
 						</div>
 						<div class="blog__two-item-content">
-                            <h6>Post by - Admin</h6>
-                            <h4><a href="blog-details.html">Find cheap hotels in the best locations</a></h4>
-							<a class="simple-btn" href="blog-details.html"><i class="far fa-chevron-right"></i>Read More</a>
+                            <h6>Đăng bởi - Admin</h6>
+                            <h4><a href="blog-details.html">Tìm khách sạn giá rẻ ở những vị trí tốt nhất</a></h4>
+							<a class="simple-btn" href="blog-details.html"><i class="far fa-chevron-right"></i>Đọc thêm</a>
 						</div>
 					</div>
 				</div>
@@ -296,9 +296,9 @@
                             </div>
 						</div>
 						<div class="blog__two-item-content">
-                            <h6>Post by - Admin</h6>
-                            <h4><a href="blog-details.html">Book a room Today most Affordable Rates.</a></h4>
-							<a class="simple-btn" href="blog-details.html"><i class="far fa-chevron-right"></i>Read More</a>
+                            <h6>Đăng bởi - Admin</h6>
+                            <h4><a href="blog-details.html">Đặt phòng ngay hôm nay với mức giá phải chăng nhất.</a></h4>
+							<a class="simple-btn" href="blog-details.html"><i class="far fa-chevron-right"></i>Đọc thêm</a>
 						</div>
 					</div>
 				</div>
@@ -312,9 +312,9 @@
                             </div>
 						</div>
 						<div class="blog__two-item-content">
-                            <h6>Post by - Admin</h6>
-                            <h4><a href="blog-details.html">Our expertise covers all Aspects of the industry</a></h4>
-							<a class="simple-btn" href="blog-details.html"><i class="far fa-chevron-right"></i>Read More</a>
+                            <h6>Đăng bởi - Admin</h6>
+                            <h4><a href="blog-details.html">Chuyên môn của chúng tôi bao gồm tất cả các khía cạnh của ngành</a></h4>
+							<a class="simple-btn" href="blog-details.html"><i class="far fa-chevron-right"></i>Đọc thêm</a>
 						</div>
 					</div>
 				</div>
